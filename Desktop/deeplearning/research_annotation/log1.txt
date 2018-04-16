@@ -1,0 +1,2 @@
+./images/submarine.png : 46 79 125 117 
+./images/fish4.png : 20 67 104 110 
